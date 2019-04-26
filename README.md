@@ -24,7 +24,7 @@ initial_migration.js
 0xd6b1FB1910DD7CA792bFAF63F776Aff5D9a1A402
 
 Minted and listed tokens on OpenSea
-https://rinkeby.opensea.io/recent/realestatemarketplacev2
+https://rinkeby.opensea.io/assets/realestatemarketplacev3
 
 Owner Address
 0x2429E36A997E89B88934dc80d7A836E21D3dc748
