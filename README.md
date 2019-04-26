@@ -15,13 +15,13 @@ Run the following lines
 ## Migrate / Mint / List 
 
 initial_migration.js
-0x04d22b60e662a3BB3Ac191FbA18De8816f129C11
+0x61ff067D74715500EfBa081d0DCF324eDEF3a5ac
 
 'SquareVerifier'
-0xbF8A091Db0606b7693c4503996Ce2Db0d8EAD88F
+0x1296296395AeD38D480a1C18504E097291A5205D
 
 'SolnSquareVerifier'
-0x57B31f8Dea3358D2006D29Ad79c94f0feFC9DE0E
+0xd6b1FB1910DD7CA792bFAF63F776Aff5D9a1A402
 
 Minted and listed tokens on OpenSea
 https://rinkeby.opensea.io/recent/realestatemarketplacev2
