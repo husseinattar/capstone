@@ -97,7 +97,7 @@ SquareVerifier public _verifier;
             uint[2] memory input) public {
             
             //Verify solution
-            //require(_verifier.verifyTx(a, a_p, b, b_p, c, c_p, h, k, input), "Wrong Solution");
+            require(_verifier.verifyTx(a, a_p, b, b_p, c, c_p, h, k, input), "Wrong Solution");
 
             //Encode solution to check for uniqness 
             bytes32 key = keccak256(abi.encodePacked(a, a_p, b, b_p, c, c_p, h, k, input));

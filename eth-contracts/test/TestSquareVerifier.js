@@ -29,7 +29,7 @@ contract('TestSquareVerifier', accounts => {
 
         it('Test verification with correct proof', async function () {
             let result = await this.contract.verifyTx.call(A, A_p, B, B_p, C, C_p, H, K, proofInput, {from: newAccount});
-            assert.equal(result, false, "Correct proof Failed");
+            assert.equal(result, true, "Correct proof Failed");
         });
 
         // Test verification with incorrect proof
